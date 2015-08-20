@@ -1,0 +1,33 @@
+{
+  "name": "scapesheep",
+  "version": "0.1.0",
+  "description": "A small library providing utility methods to escape and unescape HTML entities",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sani005/scapesheep.git"
+  },
+  "keywords": [
+    "escape",
+    "unescape",
+    "html"
+  ],
+  "author": "Sani005 <anirai786@gmail.com> (http://jagirmaya.com)",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/sani005/scapesheep/LICENSE-MIT"
+    }
+  ]
+  "bugs": {
+    "url": "https://github.com/sani005/scapesheep/issues"
+  },
+  "homepage": "https://github.com/sani005/scapesheep#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}
